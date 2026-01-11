@@ -38,7 +38,6 @@ In the output, you'll find options to open the app in a
 
 ## Disclaimer
 
-1. I have used chatGPT for code quality checking & code structure.
-2. I have user Expo cause it easy to develop demon projects without any CLI hustel. But I can shift this to React Native CLI.
+1. I have user Expo cause it easy to develop demon projects without any CLI hustel. But I can shift this to React Native CLI.
 
 
